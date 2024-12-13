@@ -8,7 +8,7 @@ Esse projeto utiliza modelos de machine learning para predição da condição d
 - **Pandas**: Manipulação de dados.
 - **Seaborn e Matplotlib**: Exibição de métricas do modelo e dataset.
 
-### Etapas do projeto
+## Etapas do projeto
 - Estudo, manipulação e limpeza dos datasets selecionados;
 - Treinamento, análise e otimização dos modelos;
 - Comparação de métricas de desempenho entre diferentes modelos.
